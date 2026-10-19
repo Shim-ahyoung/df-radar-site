@@ -1,6 +1,6 @@
 {
-  "name": "DF Radar · 면세 동향 브리핑",
-  "short_name": "DF Radar",
+  "name": "리테일 브리핑 · 유통·면세 동향",
+  "short_name": "리테일 브리핑",
   "description": "리테일 · 면세업계 · 면세 4사 동향 브리핑",
   "start_url": "./df-radar.html",
   "scope": "./",
